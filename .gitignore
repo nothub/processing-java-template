@@ -13,5 +13,6 @@
 !/**/pom.xml
 
 # misc
+!/.github/**
 !/.editorconfig
 !/LICENSE
